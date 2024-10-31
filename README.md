@@ -26,13 +26,6 @@ This project focuses on developing a robust facial recognition system in three m
 - **PIL (Python Imaging Library):** Employed for image loading, grayscale conversion, and preprocessing.
 - **OS:** Facilitates file and directory manipulation, crucial for managing datasets and trained models.
 
-## Sample Usage:
-
-- Execute `face_detection.py` for real-time face detection using the Haar cascade method.
-  Note: Create a dataset Subfolder in the parent directory.
-- Run `training.py` to train the system on a dataset of faces.
-  Note: Create a trainer Subfolder in the parent directory.
-- Utilize `recognition.py` for real-time face recognition with annotations.
 
 Feel free to contribute, report issues, or extend the project for personalized use cases!
 
