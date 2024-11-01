@@ -4,6 +4,10 @@
 
 This project focuses on developing a robust facial recognition system in three main phases: face detection, training, and recognition. Leveraging the power of computer vision, OpenCV, and machine learning, the system employs the Haar cascading method for efficient face detection and recognition. The project utilizes popular Python libraries such as OpenCV, NumPy, PIL, and OS for image processing, numerical operations, and file handling.
 
+## Demo:
+
+https://github.com/user-attachments/assets/dbb5881f-7c23-4f53-8421-67449b90881f
+
 ## Phases:
 
 ### 1. Face Detection:
